@@ -1,0 +1,33 @@
+div {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+  .nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(59, 92, 62);
+  }
+  
+  .nav-list {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .curr,
+  li a:hover {
+    background-color: rgb(31, 42, 31);
+  }
+  
+  footer {
+    padding-top: 50px;
+  }

@@ -1,0 +1,50 @@
+h2 {
+    text-align: center;
+  }
+  
+  div {
+    text-align: center;
+    padding-top: 30px;
+  }
+  
+  .images {
+    margin: auto;
+    display: block;
+  }
+  
+  .nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(59, 92, 62);
+  }
+  
+  .nav-list {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .curr,
+  li a:hover {
+    background-color: rgb(31, 42, 31);
+  }
+  
+  i {
+    padding-right: 5px;
+  }
+  
+  aside {
+    padding-top: 50px;
+  }
+  
+  footer {
+    padding-top: 50px;
+  }
